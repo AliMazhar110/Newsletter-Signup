@@ -1,0 +1,41 @@
+.container{
+    margin-top: 10%;
+    text-align: center;
+    width: 50%;
+}
+img{
+    width: 20%;
+    margin-bottom: 2%;
+}
+h1{
+    margin-bottom: 2%;
+    color: #1B2430;
+}
+.input-text{
+    width: 60%;
+    margin: 5px auto;
+}
+.btn-sub{
+    width: 60%;
+    margin: auto;
+    margin-top: 2%;
+}
+button{
+    width: 100%;
+    font-size: 1.5rem;
+    padding: 1%;
+    background-color: #1B2430;
+    color: white;
+    border-radius: 5px 5px;
+}
+.top{
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+}
+.mid{
+    border-radius: 0;
+}
+.down{
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+}
